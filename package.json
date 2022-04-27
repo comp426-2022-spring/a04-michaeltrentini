@@ -1,0 +1,26 @@
+{
+  "name": "a04-michaeltrentini",
+  "version": "1.0.0",
+  "description": "Databases, logs, errors, and middleware",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a04-michaeltrentini.git"
+  },
+  "author": "michaeltrentini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a04-michaeltrentini/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a04-michaeltrentini#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "express": "^4.18.0",
+    "minimist": "^1.2.6",
+    "morgan": "^1.10.0"
+  }
+}
